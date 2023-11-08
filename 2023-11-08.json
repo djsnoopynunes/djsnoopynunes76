@@ -1,0 +1,26 @@
+{
+  "name": "Bill Weber",
+  "age": 29,
+  "address": {
+    "street": "Jomato Street",
+    "city": "Bokkuwme",
+    "state": "DE",
+    "zip": "33164"
+  },
+  "contact": {
+    "phone": "(432) 338-6633",
+    "servicePhone": "800156175"
+  },
+  "birthday": "1995-11-07T11:08:50.866Z",
+  "ip": "77.175.0.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Hir dijohji kis orefoesa arcagik vosokij ufvecnon ke ape imuni ivuusa foipafe aze. Kozuzdil jiota joj fuzigam lona asilid im rabenlot muc vaekjoj rur tozem wave. Madupo ehowu teh gihupa wih puctuk noc ciju gepti cebisukoh zumi oh. Dajlavbiw se sa kurepo bo aceac cozu hes juza jemci sofam toba balawesev iladi cuk.",
+    "bio": "Taj hurre cag kudtano situfce tihos dorve aha pe carod kegumi zimejona jeg netitad sudjurdu pub jo zisda. Lonsa cud ujgotan af rilazjo ivavefniv fowit bolpob ho idwozaf mem usoso soci jojivej. Mofu kenibun duchahdew sa ehe civo ker susuhebob beadgo tejvehem fejwah zo isoofsir ogeakori. Rilor cowape ibozoj guh pi dejnaf ziiciuw do fugub kudumo fu ohmamobe."
+  },
+  "apiKey": "0378d5f055cee69c1206304402ad678fdd2124e7e6e0fab34e949bbb8e377b7b",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
