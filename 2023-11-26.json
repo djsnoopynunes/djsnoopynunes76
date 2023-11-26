@@ -1,0 +1,26 @@
+{
+  "name": "Larry Simmons",
+  "age": 38,
+  "address": {
+    "street": "Bujka Mill",
+    "city": "Pilaohe",
+    "state": "CA",
+    "zip": "67771"
+  },
+  "contact": {
+    "phone": "(533) 735-6061",
+    "servicePhone": "800842962"
+  },
+  "birthday": "1965-02-04T09:11:34.519Z",
+  "ip": "19.63.86.181",
+  "foo": "bar",
+  "profile": {
+    "about": "If neve fo sez lokemgit unek hid demicvu aba pi zat cimpo sagjoh raf da. Vizko tun sonfag gethul wa ivu fosdosfe le eku kesihdu fadevzar uj. Me gabbooh tob ja nehji ji ovnare kemev iviuzaruj jusezru vuzovu alifuzlif cobnetad. Horpetupi hi ba ukagef vu cohzagoki ma juvnus guivgug gi piv gotrigo ip horbebjip.",
+    "bio": "Rusedon bilun fogjazek pabav wa rohwa af afi copfeg boavgi ca suis ci ihsu goiso jin dan. Bufujas ledago ges taki fanfefeb cobuw newoco tok inirevhi fukapdos du li. Novfueno zi jumojug vuzu hippuz ozbolup ufipa rib isedim ujboseg etfikode bopovemi piha wiav sed. Ajotazoj nuge eraejboj em muzud he hamubib utopahcej solho oru oja sepeej za wahuuj zovpohabi pilhew karapew."
+  },
+  "apiKey": "9224845213e369cb1aa7918f3fa994ead90efe1d02fef5ca6e15c1890ea6cb69",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
