@@ -1,0 +1,26 @@
+{
+  "name": "Flora Allison",
+  "age": 60,
+  "address": {
+    "street": "Gozo Lane",
+    "city": "Uhunosjot",
+    "state": "NC",
+    "zip": "27391"
+  },
+  "contact": {
+    "phone": "(326) 830-5016",
+    "servicePhone": "800997421"
+  },
+  "birthday": "1997-08-23T00:04:50.461Z",
+  "ip": "216.152.207.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu icvafur be ru ziw filsiwdos he gushev seso nuhuh lazbulmu jo dal. Fauh cegdus va buroju uc hij buhjawzus hufop wiza linri lursov ubvi ce riwla latuka muj he buknonjih. Duv imi bajewum hikajeido gaibi hekwobu wes won komafer lurhi kaotutez kihebije dus. Ruc kianifub foces sacnug getharli homelmaj osworu sonhunta duoj jefos zopi ko saatupeh si. Hiufuib ko oma waoluvi fucit arufin avoabuc te wogfijik usopeluzi mun si tusot ale oda nu pojida. Acu uf waretjoh pe dihjo zowoz cef igufu duse buriwa parelame luma duse. Jogu zanuzlev bi eriloski da sat boplij lul nuc womufaz azogos gug tucdirpe ih zewambah jer ige wuho.",
+    "bio": "Welad huf nibculom puk wo zudluz use tenok pempembuh huguzoifu vec ur alutu rohulo vahaku ovakuru gih. Fidof rafalafu ma fifci olaseg dof hum rusin vogjud igafo bef zewpicto nenled ho kezwani. Odta sobjim is zogoc dubcacab ozoco zogbaoci pa ucbele uruhupok ga waj vassebe. Su olibac wekrih folutwol dimeved isi mac kibikiz gacargeg al jawzalal veada ifa hijet."
+  },
+  "apiKey": "31d898f2232e967e2cb7e8d4d09c391815b4ed99e6d329b723981fcb4cb5f2e5",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
