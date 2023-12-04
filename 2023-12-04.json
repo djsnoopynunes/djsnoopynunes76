@@ -1,0 +1,26 @@
+{
+  "name": "Helena Mann",
+  "age": 23,
+  "address": {
+    "street": "Gilit Highway",
+    "city": "Ketubol",
+    "state": "MA",
+    "zip": "70818"
+  },
+  "contact": {
+    "phone": "(875) 555-3124",
+    "servicePhone": "800935386"
+  },
+  "birthday": "1980-08-01T22:07:40.067Z",
+  "ip": "48.217.125.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Revoceza kieto gefga ujme iwihbab funomce ziid rejzete nozu jockujem vurem ce egu juh hozule we ig luhi. Unoitlad adjaz saveidi fatrizad si solar ope hi wasjosdur buhjaon vo ala okoja co. Udimib icufiiz ji hu adodebmun fe kaigabug kouruico vegow jo ugwepto sarer ew kar doldan nabco. Adewalta zucber fahhofvu fu ri ab dowlug iccezci huhmo izmo orerivu lug tilkekvek ejferac zofkukog jeceg hijajnuj er.",
+    "bio": "Zujmiwoc be ra totuva tom zabag tu zeto ibi meudu cel hivwuv egu tijpu. Ud bobejnu zumgohod nemtoam nitug uja cujuzes colere huevogi favbuvud focduej gizojib tur hegibes revob ipuisuzo posamof. Ohmuf lar va iltoh itukef jaub gujreg firbe tap negeho kaz sazovi omhibgol ib di teb ewinoheg oga. Kacta nari agamamuc nunfottom gemihlu ohajoaz bejakuso naz hekvebgil vehuza li je re. Ehu gisife ken or atafo dook jisizuj galkutov roj ipwi zer tagpetike hojzev jositejo topa dihat wekbubpiv ej."
+  },
+  "apiKey": "0abd0009ac74d02cea94d5765c15be2691f216b992773757096db163cf20900c",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
