@@ -1,0 +1,26 @@
+{
+  "name": "Pauline Coleman",
+  "age": 61,
+  "address": {
+    "street": "Rodmev Plaza",
+    "city": "Adeeranu",
+    "state": "UT",
+    "zip": "91446"
+  },
+  "contact": {
+    "phone": "(369) 614-9561",
+    "servicePhone": "800537568"
+  },
+  "birthday": "1989-05-19T03:53:33.536Z",
+  "ip": "47.32.61.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Tafiska ha oba vaggi akobeje un roduza wew gu isaof vut ahnot hehewat wubton jab. Wa wesoma jiim saire bebhev meane ohka wabgafim geksup wi divmun bifa ugnot davwi. Taoj bijaciz vaduc tefo vuzerilu zanjata siwal tafboz pacad uwdudu japgavzot disufsir la. Nuhho ci gutcu ja ziciw ruopne pewif jirwepwih poda ra uf zouzgac hu wobdi.",
+    "bio": "Pubaef no tuh zup nafi alpolig kucelaso cicuge ive betdi tibfenze midbe fib jobve uditugba fupdav. Zor do du guwop zamuug jivaj ratalfek keamilaz ca usjoala sor laped dobgivik. Ga wocri upefel zi pevsi cuc mishit ge hiriwut volaz hod pibpisu lih cudew jut."
+  },
+  "apiKey": "a58e700dd1fc75777fb56c68b2698b37cac3e1adb962c540c61d5d63a0655fe5",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
