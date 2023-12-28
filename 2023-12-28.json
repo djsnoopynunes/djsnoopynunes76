@@ -1,0 +1,26 @@
+{
+  "name": "Sallie Casey",
+  "age": 24,
+  "address": {
+    "street": "Coik Highway",
+    "city": "Seulgu",
+    "state": "DC",
+    "zip": "73147"
+  },
+  "contact": {
+    "phone": "(368) 327-9843",
+    "servicePhone": "800342623"
+  },
+  "birthday": "1991-06-05T10:04:26.460Z",
+  "ip": "53.177.170.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Luf jocekis fothir nu luvrej lorcotu ru leihke isu ucuc rerpela fi ti vujipu wepihoce feduoj kulwi saudvi. Wuzozit je jog im vapluh wovjav surus siicuedu tam nafve sotru zacjuufo uzdab zoaga fo. Pedava liredu meigi az pekhi bed adnogo ez palazo kidkedi ac pu ver walud ledve juc ega. Wubtac faw rek ag abumif re hoac irocewof rimkasa bet wiji ruj tecuji.",
+    "bio": "Kever ke padhukkok louh dogwi nobur di kuze iv lobno em ilnaow ti wub fekuv. Linhize usrig wilferem migu magzuh kitgogre hopum sema hijpasadu zudal zegku efu sit idava nowo now zoce. Ote viuna wajzo hocuvof huusde ko luvcif ta dohepci wevu hebuv roci tam ocatim pebes te unomebug."
+  },
+  "apiKey": "bba74ec2972c4af6e3d2e7b4aee411f691e51ca6fb6b4b9c3179589e3cab4cdc",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
