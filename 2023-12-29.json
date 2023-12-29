@@ -1,0 +1,26 @@
+{
+  "name": "Jane Alvarado",
+  "age": 54,
+  "address": {
+    "street": "Keheb Highway",
+    "city": "Piaveru",
+    "state": "GA",
+    "zip": "59058"
+  },
+  "contact": {
+    "phone": "(470) 556-5195",
+    "servicePhone": "800489718"
+  },
+  "birthday": "1983-09-19T20:14:04.305Z",
+  "ip": "97.166.84.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Zu epdubba bihudlo om cabapu ta fuwepor mouzijal robokpe naaljen we dusi wenhi mu jogatkok caf munenu jogna. Fiku zolo lolo zorohedi ve pu hos ga ama vegub wi ujvon edieca. Fo gel luodpos hu wo bunlo haskacsa ma eltevlef vek ow mu nanuwmul sasuve.",
+    "bio": "Togaibe tiwa mok damiw zuleh eptud nej nagciwzov joh maf tihgil hajun koasi dul. Omi jinasuwul izeeciic pum okawehov jo ikifeope cupaceboz tigik vaaz tum motot. Lebcob johjac cemwel fekpifo wo ededum rujfaf hibi pemre ziavu ovehav he raitke fej tinpoaku vetuv hacija evirenaz. Aririw jezipba butajulup tefak fovoza zikmiraf ori lo coveedu rujufzo jukab ravso at odtizfeb mi ho kunog. Jizzi ket mo iptun ikados ulnu oleehda pawamfi safehsu mam voroejo opubuat se otcuwro owu. Ada pereslis jug garasolub nifa vowjemo ofe tanle te duhti so utali. Wur goc fefi jaj hirvaba cimsotud vufo ahumop sejazu aroc go bifi."
+  },
+  "apiKey": "f7974cb9d61632d4a87c87e6d210a1ca99fb12c980ecd7e16bbac5ff3af48b58",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
