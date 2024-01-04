@@ -1,0 +1,26 @@
+{
+  "name": "Walter Ramos",
+  "age": 30,
+  "address": {
+    "street": "Cefsid Road",
+    "city": "Mevefe",
+    "state": "KS",
+    "zip": "20174"
+  },
+  "contact": {
+    "phone": "(726) 544-7431",
+    "servicePhone": "800172119"
+  },
+  "birthday": "1984-03-27T23:44:18.732Z",
+  "ip": "217.250.94.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Wipgo er fif sawenekaz ri etieslir gu fa du zob wefincas sipimme. Zatguf akra ejro za jilwep utoroso kesab le je jep egaoc dejgizeri owhoz kotgivde negup torleb lorhi. Na zo zecezu hevebu jagpev pa po wunison ofijef bawo pahdow liwle kutohuh poz. Sakuh si taaji focu zerveciz tazume co keih vofwe ak nopefaeti kor jamke.",
+    "bio": "Tewugu falje fehu bafi eb buji tepudnav ore uzewoil subo ediuto hogadpog. Zir gocwubfi liice dupih num ufnuw bizsenoj ag posi ubo ec dibew. Uhenis nen hab abisocuh ri ezebelo wudam guvir ujeir huleb wafjavu unozisu lurupco kolnivca jocesakez wil av ogo. Wokefog ir ce piholtoj pi okotus do pugpo miknenama usasas konultu peswasnu."
+  },
+  "apiKey": "2b5f867f8648eeee99cb21b2f68c4f996a3f759177268561a8fab17f738eeca8",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
