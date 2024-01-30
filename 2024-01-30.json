@@ -1,0 +1,26 @@
+{
+  "name": "Janie Gomez",
+  "age": 18,
+  "address": {
+    "street": "Muzmi Mill",
+    "city": "Sonabu",
+    "state": "NC",
+    "zip": "36310"
+  },
+  "contact": {
+    "phone": "(500) 567-7272",
+    "servicePhone": "800179946"
+  },
+  "birthday": "2003-02-20T09:02:51.663Z",
+  "ip": "163.242.139.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Wevuti bida pepule ipfu ludaj nami fec us ko lo juc fad le ka azbibted. Eg sut muwfejad mipu guw risnuida nopse go fosad hat moeze ensen pikur. Babe ipge irga meg zoluk daladab liwfer lit vibnelsu ribag vuafhi agu di ninhanbag howsege vunlo. Bevkul ahoz zapfaci dadi kod lo gadje koz anu liitebas icwo pizcujho uzgijubi bajrav fahdo gi ocwijta.",
+    "bio": "Arfuwfo hadi mop tuvemgeh ubje gi wuclezut sukdowe zurbudse nilfe ezlewlic nehce zezudis onenagi. Lo ecupo suzmoz pezufi eg amijebe sa hez fim hugrible umoefivig horuk fasesgoj webogo bibaf. Ic es unojacpa cipwabo orekumup bifrek itiukuba la kemej iwuma fa noj. Nutsen soraw owu teskeame ozwezak ipe rovecwu zi acodet wehnudjen hovuz efesi jizunwuv gosin venfavik bo hacwuzu. Lo bowwiido dehtu hi deanifik torik agi hasar nahoz mo lad cowvejo jasih guazeahe cepzubok puhju rolkan kapid. Wo ikunokid uno jinodiz dignam fuhbu guna cefra zom al ubernav og wad wok."
+  },
+  "apiKey": "8f7e2a5563da4b9a3f26442b6ceb9165f46fdfc1c8fe1683acb07f496025d39d",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
