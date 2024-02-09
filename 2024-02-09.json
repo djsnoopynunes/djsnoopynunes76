@@ -1,0 +1,26 @@
+{
+  "name": "Danny Lyons",
+  "age": 38,
+  "address": {
+    "street": "Jeel Highway",
+    "city": "Wotiut",
+    "state": "PA",
+    "zip": "75537"
+  },
+  "contact": {
+    "phone": "(250) 679-9506",
+    "servicePhone": "800752345"
+  },
+  "birthday": "1977-02-02T21:54:16.466Z",
+  "ip": "186.120.27.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi utguhgo pi ba gi hi siktub soki va vees kawacoka roazu salenuh et. Vi juhgefat tiurical cu juwzer ni bof jasilu is sagaharu ga jijib rahli ficag widlazpe suz. Vofida garunza gi ofluhom westu daopi ducgasriv agalaz jogu pit kulipami maja toh ib urkodni socfa hoh golmewag.",
+    "bio": "Comnafefo as ce keli ikbo sih ganog zocgoane nakira ijiol or faz raujiel hifweg ju dagcu umsu humub. Logawre dillapvo ze poisieho wodwinco mugpa dap ve vopfipi kuko gaihsi fois zaw. Bedizedel manlu ocfaw wo befda ruf ti eti nigupo juzewtik no cag liebuep asipidpet tuh mozagul dacpig bul."
+  },
+  "apiKey": "f656afdbde1331c8a67a16c6ee41178ceb9513b3eeb711aa2d7a1d56493bf0f8",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
