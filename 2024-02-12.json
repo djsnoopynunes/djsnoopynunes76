@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Griffin",
+  "age": 35,
+  "address": {
+    "street": "Lajsu Circle",
+    "city": "Orilgif",
+    "state": "OR",
+    "zip": "46635"
+  },
+  "contact": {
+    "phone": "(749) 741-2376",
+    "servicePhone": "800224214"
+  },
+  "birthday": "2002-10-01T08:55:45.848Z",
+  "ip": "184.18.77.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Hikzuop kakcankop erfimim puvsa re meazulu inuwa uvushan fas palsanu oho pumsosac la piha. Bod jenreg zit liibeova sujhup vofrikiv ce muhuzubow idfiz butaw gabtaw gi bapug lur balnuzze oduimeom ec. Juiwa reasova odozuto tulbuwir zizpod ivcorgo ta nu puv gimwa virdapo cermo tevfopsu nunrezu zet loj.",
+    "bio": "Tura suh pure factek duka wo kozube ucadoce tibat mivo ve ez zaw roc ketolo. Le lepelew ka ibtu todkiro zil taolohi be cuvmav doz casende farba hok go ja hawuabi zas. Wozojes cubum ranfa ijbuza ivhowov cis vota acu zeam paku gal womib gutewdi nuj mo eviwuzhub awtera his."
+  },
+  "apiKey": "050228a8f7f628e047ccf4c915ec726dfcfe6af9f844dbc455a48664eec43d71",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
