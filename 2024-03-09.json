@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Wilson",
+  "age": 22,
+  "address": {
+    "street": "Pefri Loop",
+    "city": "Nudemiezi",
+    "state": "CA",
+    "zip": "95765"
+  },
+  "contact": {
+    "phone": "(224) 913-8221",
+    "servicePhone": "800297682"
+  },
+  "birthday": "1984-01-30T14:32:28.102Z",
+  "ip": "127.208.143.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Alfofa gad ezjel ezumiir lubbipji evvak ze wo ruzsaeh sol hizvu gojfuce hos. Jejagimi tiwub jujavgul za luptoku wopmoh col ketoz hat wuljo iragha nij dazsuc banior nino awe gecbibo lolcaswe. Mudik ruznu dijpo ruj wiwo ur ozna kenimpi nipeco zab aczonsum gijijbo pi riudaro victecom vef. Tigenkim govted miwhoove letgon li pocfume cecaw ak fepuw fiwa ilitalu lusicer wifuma. Vofkifed naed posa urisacob nag gohojop vobfadgov za olze ton ri owucej. Nuaktis ho imawiv kanihadi vojece fe ohbi ed zokvepu ubofu nip roonta.",
+    "bio": "Reg tidu jakkerfe ser foj ofopafdes ka farkussi daajalez se vutod duftoz timeruupo ziej ef kan. Cim vivamu waommag tehci itedi fis da kujvitri dob sa vilipzos kelivpo dopre. Matra wekdop vartase saz vop etdom tu izgiune ezozhec ihmof geffov epdov. Bawvem doigvok ez fatela aze gum cifone mavlecof fur hilat nimwipco pefuhi pojvuaf."
+  },
+  "apiKey": "d68a35be9386fc2cabc1b84073b740cc2e3c192f638837cc350e4cc587a58cb8",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
