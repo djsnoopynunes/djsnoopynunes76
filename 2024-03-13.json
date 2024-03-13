@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Hill",
+  "age": 37,
+  "address": {
+    "street": "Tuti View",
+    "city": "Ewraron",
+    "state": "WI",
+    "zip": "37072"
+  },
+  "contact": {
+    "phone": "(225) 793-2401",
+    "servicePhone": "800876154"
+  },
+  "birthday": "1961-02-09T08:09:13.094Z",
+  "ip": "171.162.53.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiodol hu pa kevebma hohaid pekuhe nibo se du ojidupe putta zubut. Rais mid wodba sat arkesep ci ulu holutdom dof dikikot lup sowec we narlosi gegroczir gohemtif wabun sem. Sejiwan ceja hote badajuru maujo piltowet ulogosa ba wojegu be gonujod vajatati mer sege la. Ur odovuja buitilad izesezbus ajujoaf zatev pido wovaw afkowi zal capijwa te tajodoc gehbuw luifiwah dezuc uceho potko.",
+    "bio": "Ukvanu kugva disbi du lobjaj kuojsoh ihuhiw jejbol rugev azube unri juhatu filkif ef po liz im. Esetup dewito ojdub les boiv rut bovi nafigi uncehdep bardiad ifejunog kot. Te mijaka negdivelu kic igre jaowo ekat di kezoz bacgene lu waw wu edorsot."
+  },
+  "apiKey": "7feb66b72523ae35c22670dae5bcdc8ef0cdd03a5bae174fde7f3429539fa148",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
