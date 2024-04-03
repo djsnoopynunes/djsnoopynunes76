@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Marshall",
+  "age": 22,
+  "address": {
+    "street": "Zisza Boulevard",
+    "city": "Rermolob",
+    "state": "KY",
+    "zip": "18326"
+  },
+  "contact": {
+    "phone": "(940) 539-4290",
+    "servicePhone": "800497912"
+  },
+  "birthday": "1969-09-14T10:44:21.261Z",
+  "ip": "190.98.138.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta go avafalto garum omufe pelinuw tipiuc ibu vadamu zew co gut cozevo. Odiemipav leepuheg wigoj kucuhca ci uceledid jotiono piwaog vov labob baja umfezad dok. Gepimo hepvehar gosato wun rieliviw dosena ikubalso petwir gurazdas re fine uw zirmi fil fevvef. Cosvev apme roiwgoj bep pakrodmu gi bivfu boswijdut risituno nih duvmudtuk betele rusor da ome cuc cemegni ev. Akefutkih nijfibok tujes piono cevli cigzosan no faj famha iwdatu zirogoc liupvam venehim.",
+    "bio": "Dakguc midinwam kivuar vuvevok jesasuni ikja ugasi mikcidop vokor nuda ruki ke. Logo lorkeran to egiruldet makfiwum fumisir es ti dohacazem gedni en emilaviw zuhaafa jorej vealunof lo. Cizgesaf lur fedcospa gipwe gucum uda he wa sokahgi uciveto lepimu teeza."
+  },
+  "apiKey": "42a988c6c2ede3a65c1d498d717438ca6e675b5e72a4320346319058649021c9",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
